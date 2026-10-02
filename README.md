@@ -1,5 +1,5 @@
 # ~ :
-~ vscode <br>python <br>lua<br> <br>cachyos (arch based)<br>
+~ vscode <br>python <br>lua<br> <br>front end<br> <br>cachyos (arch based)<br>
 
 
 ## ~ socials:
